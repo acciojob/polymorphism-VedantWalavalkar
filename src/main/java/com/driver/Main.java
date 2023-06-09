@@ -2,8 +2,8 @@ package com.driver;
 
 public class Main {
     static class Product{
-        Product(){
-        }
+//        Product(){
+//        }
 //        private int x, y, z;
         public int product(int x, int y){
 //            this.x = x;
